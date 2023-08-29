@@ -2,7 +2,13 @@
 The Social Showdown Game
 
 
-### **Welcome to the Follower Frenzy Game! This is a simple game where you have to guess which of two social media accounts has more followers. The game will present you with two accounts, and your task is to decide which one has more followers.**
+Welcome to the Follower Frenzy Game! This is a simple game where you have to guess which of two social media accounts has more followers. The game will present you with two accounts, and your task is to decide which one has more followers.
+
+## **Working**
+![image](https://github.com/sarvesh-2109/Follower_Frenzy/assets/113255836/332fa3d4-2192-41cc-92cc-73795369bc82)
+![image](https://github.com/sarvesh-2109/Follower_Frenzy/assets/113255836/de042cb7-af9a-4286-bf25-07030ba041ad)
+![image](https://github.com/sarvesh-2109/Follower_Frenzy/assets/113255836/3a8c548f-afe2-448c-99f3-9b789e60c82e)
+
 
 ## **Gameplay**
 
